@@ -1,9 +1,6 @@
 testing - master
-<<<<<<< HEAD
 testing - x
 testing - x1
 testing - x2
-=======
 testing - y1
 testing - y2
->>>>>>> y
